@@ -1,0 +1,49 @@
+Hi team,
+
+Please check and match.
+OCBC trade settlement. 
+AB19293829,13/10/20,15/10/20,152792.38,OCBC,15/10/2020,not settled, EC 25625
+
+Best,
+OCBC
+
+
+Hi team,
+
+Please check and match.
+OCBC trade settlement. 
+AB14293829,13/10/20,15/10/20,152792.38,OCBC,15/10/2020,not settled, EC 92416
+
+Best,
+OCBC
+
+
+Hi team,
+
+Please check and match.
+OCBC trade settlement.
+AB19233829,13/10/20,15/10/20,152792.38,OCBC,15/10/2020,not settled, EC 92416
+
+Best,
+OCBC
+
+
+Hi team,
+
+Please check and match.
+OCBC trade settlement. 
+AB19243829,13/10/20,15/10/20,152792.38,OCBC,15/10/2020,not settled, EC 92416
+
+Best,
+OCBC
+
+
+Hi team,
+
+Please check and match.
+OCBC trade settlement. 
+AB19294829,13/10/20,15/10/20,152792.38,OCBC,15/10/2020,not settled, EC 92416
+
+Best,
+OCBC
+
